@@ -1,0 +1,12 @@
+---Trial Results---
+
+For this project I tested the 3 python files to train, use, and find precision with the 
+model. The most notable result was the change in time when altering the epoch value, which 
+was faster at less passes and slower as the passes increased. I found the batch size to 
+have minimal impact on the runtime and prediciton accuracy but this may have been a fluke 
+as I only ran three trials. I had trouble producing the "bird_model.h5" file at times and 
+I'm still not sure why but it may have hindered my results. Overall I found this project 
+to be very insightful regarding deep machine learning and it allowed me to see how these 
+programs work, which I feel is very applicable in the job field today as we discussed in 
+class.
+
